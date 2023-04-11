@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Ansrer</title>
+    <link>https://ansrer5.web.app/about/</link>
+    <description>Recent content in Abouts on Ansrer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://ansrer5.web.app/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Ansrer</title>
+      <link>https://ansrer5.web.app/about/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ansrer5.web.app/about/about/</guid>
+      <description>Founded in 2021, Ansrer is an ambitious blog website that aims to make people’s lives better by educating them about the latest tech trends and gadgets. We publish software recommendations, how-to’s, product reviews, and useful hacks to get the most out of your gadgets.
+Contact us </description>
+    </item>
+    
+    <item>
+      <title>Contact us</title>
+      <link>https://ansrer5.web.app/about/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ansrer5.web.app/about/contact/</guid>
+      <description>Do you have any insights you&amp;rsquo;d like to share with us? Are you curious about the workings of Ansrer and would like to have a conversation about it? We are eager to hear from you! or you can Contact us for any other business inquries.
+Email Inquries Please email ansrers@gmail.com for any business inquries.</description>
+    </item>
+    
+  </channel>
+</rss>
